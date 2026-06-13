@@ -1,0 +1,1 @@
+import{aN as e,ar as s,as as t,aG as r,aq as n,bI as c}from"./BuSlPPDl.js";const o={};function l(a,f){return n(),s(r,{class:"app-content-area"},{default:t(()=>[c(a.$slots,"default")]),_:3})}const d=e(o,[["render",l]]);export{d as default};
